@@ -50,6 +50,7 @@ At this moment there's no design system, so the contributor can make their own d
 # Structure
 
 ## Folder structure
+```
 └── react-components/
     ├── src/
     │   ├── components/
@@ -74,6 +75,7 @@ At this moment there's no design system, so the contributor can make their own d
     │   │   │       └── ComponentTwo.test.jsx
     │   │   └── /...
     └── /...
+```
 
 # Important folders
 You probably will just use the components folder, so I will explain it.
